@@ -1,0 +1,22 @@
+.video {
+  display: flex;
+  flex-direction: column;
+}
+
+.video__iframes {
+  display: flex;
+  margin: 50px auto -50px;
+}
+
+.video__iframe {
+  margin-left: 20px;
+  width: 515px;
+  height: 316px;
+  border-width: 0px;
+}
+
+.video__iframe:first-child {
+  margin-right: 20px;
+}
+
+
