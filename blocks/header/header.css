@@ -50,10 +50,6 @@
   color: #2f80ed;
 }
 
-.links__opacity:hover {
-  transition: 0.9ms ease;
-  opacity: 0.7;
-}
 
 .header__main-illustration {
   height: 608px;
