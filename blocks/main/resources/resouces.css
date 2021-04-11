@@ -8,20 +8,20 @@
   margin: 80px auto 217px;
 }
 
-.resource__logo {
+.resources__logo {
   width: 270px;
   height: 38px;
   background: url(../../../images/images_sprint-2/logo/resources-arzamas.svg) no-repeat;
 }
 
-.resource__logo:nth-of-type(2n) {
+.resources__logo:nth-of-type(2n) {
   background: url(../../../images/images_sprint-2/logo/resources-n1.svg) no-repeat;
 }
 
-.resource__logo:nth-of-type(3n) {
+.resources__logo:nth-of-type(3n) {
   background: url(../../../images/images_sprint-2/logo/resources-strelka.svg) no-repeat;
 }
 
-.resource__logo:nth-of-type(4n) {
+.resources__logo:nth-of-type(4n) {
   background: url(../../../images/images_sprint-2/logo/resources-polka.svg) no-repeat;
 }
