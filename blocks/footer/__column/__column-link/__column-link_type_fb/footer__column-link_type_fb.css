@@ -1,0 +1,6 @@
+
+.footer__column-link_type_fb:before {
+  vertical-align: middle;
+  margin-right: 10px;
+  content: url(../../../../../images/facebook_color_white.svg);
+}

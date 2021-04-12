@@ -1,0 +1,8 @@
+.footer__column_content_info {
+  flex-direction: column;
+  color: white;
+  padding: 0;
+  margin: 0;
+  justify-content: flex-start;
+  width: 200px;
+}
